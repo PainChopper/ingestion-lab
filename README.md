@@ -2,7 +2,6 @@
 
 Engineering lab focused on load generation and ingestion behavior.
 
-## loadgen
+## Related repositories
 
-Go-based load generator used to model and control load patterns
-(rate, pulse, burst) and observe system behavior under different conditions.
+Repositories with the `ingestion-lab-*` prefix contain components related to this lab.
