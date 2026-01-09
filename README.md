@@ -1,2 +1,8 @@
 # ingestion-lab
-Ingestion lab for experimenting with load generation, ingestion pipelines, and observability across different runtimes and languages
+
+Engineering lab focused on load generation and ingestion behavior.
+
+## loadgen
+
+Go-based load generator used to model and control load patterns
+(rate, pulse, burst) and observe system behavior under different conditions.
